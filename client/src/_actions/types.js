@@ -1,0 +1,12 @@
+export const LOGIN_USER = 'login_user';
+export const REGISTER_USER = 'register_user';
+export const AUTH_USER = 'auth_user';
+export const LOGOUT_USER = 'logout_user';
+export const GET_MOVIES = 'get_movies';
+export const GET_MOVIE = 'get_movie';
+export const GET_MOVIE_CREDITS = 'get_movie_credits';
+export const ADD_FAVORITE = 'add_favorite';
+export const GET_FAVORITE = 'get_favorite';
+export const GET_ALL_FAVORITE = 'get_all_favorite';
+export const REMOVE_FAVORITE = 'remove_favorite';
+export const COUNT_FAVORITE = 'count_favorite';
